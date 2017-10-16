@@ -4,5 +4,5 @@
 ```
 powercfg -hibernate on/off
 ```
-> powercfg -a可以显示当前有哪些休眠状态
+> `powercfg -a` 可以显示当前有哪些休眠状态
 ## 2. 
