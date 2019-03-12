@@ -6,6 +6,6 @@ powercfg -hibernate on/off
 ```
 > `powercfg -a` 可以显示当前有哪些休眠状态
 ## 2. vscode使用Git
-下载安装Git
-注册github账号
-vscode中clone项目
+1. 下载安装Git
+2. 注册github账号
+3. vscode中clone github项目
