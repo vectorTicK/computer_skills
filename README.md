@@ -6,3 +6,4 @@ powercfg -hibernate on/off
 ```
 > `powercfg -a` 可以显示当前有哪些休眠状态
 ## 2. 使用Git
+注册
